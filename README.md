@@ -12,8 +12,6 @@ go build br_conditional.go
 then run the executable
 ./br_conditional.exe
 
-https://github.com/lol-chain/test-poawr-block-rebates/blob/main/tests/br_conditional.go
-
 In example above, first 2 blocks are logging 
 "disabled rebates: blockNumber
 
