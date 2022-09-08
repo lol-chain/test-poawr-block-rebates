@@ -1,4 +1,5 @@
-[ Photo ]
+![image](https://user-images.githubusercontent.com/38635290/189043545-eb90a909-ccd0-4dd6-b720-4229a096832f.png)
+
 Created tests/br_conditional.go
 
 In order to test block_rebates triggered by conditionals
@@ -11,7 +12,7 @@ go build br_conditional.go
 then run the executable
 ./br_conditional.exe
 
-https://github.com/lol-chain/go-kekchain-testnet/blob/main/tests/br_conditional.go
+https://github.com/lol-chain/test-poawr-block-rebates/blob/main/tests/br_conditional.go
 
 In example above, first 2 blocks are logging 
 "disabled rebates: blockNumber
