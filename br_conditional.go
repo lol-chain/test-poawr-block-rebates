@@ -114,8 +114,8 @@ func blockSimulator() {
                 fmt.Println("REBATE AMOUNT: ",block_rebate)
 		    }
 		} else {
-            // only runs pre rebate activation
-            // in main net this line won't be computed
+                    // only runs pre rebate activation
+                    // in main net this line won't be computed
 		    fmt.Println("Disabled rebates",block)
 		}
 	}
